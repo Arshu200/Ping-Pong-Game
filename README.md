@@ -11,4 +11,13 @@ In this project I used the most of the  JavaScript concepts and As well as HTML,
 
 # The Game End Page:
 <p> When the Game Ends then the windows pop message as the Game scores of both Rod1 and Rod2 with the highest score.</p>
-<img src="src/EndGame.png>
+<img src="src/EndGame.png">
+
+# The Game Looks like:
+[Ping Pong Game.webm](https://github.com/Arshu200/Ping-Pong-Game/assets/91214096/ebd2292d-3a80-41eb-add8-4c92f2cfb23d)
+
+
+<hr>
+
+# Note :
+For the icons I  used this following website https://favicon.io/ 
